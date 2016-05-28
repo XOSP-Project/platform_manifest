@@ -56,7 +56,7 @@ Congratulations,the sources are initialized!
 To get the zip file that has been built, navigate to the out directory and find for the zip file there. If you found it, then congratulations! If you didn't, try retrying the build process but before doing so, ensure you do the following:
 
       $ cd ~/XOSP
-      $ make clean
+      $ make clean && make clobber
 
 When you done the initialization once you're free to build now without making that again.
 
