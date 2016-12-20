@@ -30,4 +30,9 @@
   <!-- D802 Extra Dependencies -->
 
   <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
+  
+  <!-- Common dependency for Oneplus devices -->
+  
+  <project path="packages/resources/devicesettings" name="CyanogenMod/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
+  
 </manifest>
