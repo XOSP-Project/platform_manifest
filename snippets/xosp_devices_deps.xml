@@ -32,6 +32,7 @@
   
   <!-- Extra Dependencies for OnePlus3 and D802-->
   <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" revision="cm-14.1" />
+  <project path="packages/resources/devicesettings" name="CyanogenMod/android_packages_resources_devicesettings" revision="cm-14.1"/>
 
   <!-- D802 Extra Dependencies -->
 
