@@ -21,6 +21,7 @@
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="XOSPD" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="XOSPD" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" clone-depth="1" remote="XOSPD" />
+  <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="XOSPD" />
 
   <!-- Extra Dependencies for all devices with CMActions -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="XOSPD" />
